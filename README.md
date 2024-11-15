@@ -1,7 +1,3 @@
-Here’s what your `README.md` file could look like for your "Guessing Game" project. It includes sections for an introduction, features, setup instructions, and potential future enhancements. This will make the project more professional and user-friendly.
-
----
-
 # **Guessing Game App**
 
 Welcome to the **Guessing Game App**! 🎲  
