@@ -88,9 +88,5 @@ Contributions are welcome! To contribute:
 ## **Contact**
 Have questions, suggestions, or feedback? Feel free to reach out!
 
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **Email:** your-email@example.com
-
----
-
-This `README.md` is beginner-friendly and includes detailed steps for users to run the app while providing a professional touch with future plans and contribution guidelines. Let me know if you'd like help with screenshots or additional customization! 😊
+- **GitHub:** [@c-razo](https://github.com/c-razo)
+- **Email:** subscribemecr@gmail.com
