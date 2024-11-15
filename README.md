@@ -24,7 +24,7 @@ This app is a fun, interactive guessing game where users try to guess a randomly
 ### **Steps to Run**
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/GuessingGameApp.git
+   git clone https://github.com/c-razo/GuessingGameApp.git
    ```
 2. Navigate to the project directory:
    ```bash
