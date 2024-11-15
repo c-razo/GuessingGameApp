@@ -57,7 +57,7 @@ This game is a great exercise for beginners to learn about `while` loops, condit
 (Include screenshots of the app running in a terminal for better visualization.)
 
 Example:  
-![Game Interface](Screenshots/example.png)
+![Game Interface](placeholder.png)
 
 ---
 
