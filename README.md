@@ -46,7 +46,7 @@ This game is a great exercise for beginners to learn about `while` loops, condit
    ```
 3. Run the Python script:
    ```bash
-   python guessing_game.py
+   python3 guessing_game.py
    ```
 
 4. Follow the instructions in the terminal and try to guess the correct number!
