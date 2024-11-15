@@ -15,6 +15,20 @@ This app is a fun, interactive guessing game where users try to guess a randomly
 
 ---
 
+## **How It Works**
+
+The **Guessing Game** is a simple command-line game where the program generates a random number between 1 and 100, and the player has to guess the number. Here’s a breakdown of how it works:
+
+- **Random Number Generation**: The program uses Python’s `random.randint()` function to generate a random number between 1 and 100 at the start of each game.
+- **User Input**: The player is prompted to enter a guess. Each time they enter a number, the program compares it to the generated number.
+- **Hints**: If the player’s guess is too high or too low, the program gives them a hint to help them adjust their next guess.
+- **Guess Counter**: The program counts the number of attempts the player makes until they guess the correct number.
+- **Victory Message**: Once the player guesses the correct number, the program displays a congratulatory message showing the total number of guesses taken.
+
+This game is a great exercise for beginners to learn about `while` loops, conditionals, and handling user input in Python.
+
+---
+
 ## **How to Run the App**
 
 ### **Prerequisites**
